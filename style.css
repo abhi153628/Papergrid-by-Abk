@@ -1,0 +1,276 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}.firstsent{
+    text-align: center;
+    color:  white;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    
+    
+}
+
+.firstcontainer{
+    margin: 0%;
+    background-color:black;
+    
+
+    height: 40px;
+}
+.secondcontainer{
+    height:90px;
+    width: 100%;
+  
+    background-color: black;
+    display: flex;
+    
+    
+}
+.papergridimage{
+    margin-left: 77px;
+   
+    
+    
+}
+.papergridimage:hover{
+    transition: width .3s cubic-bezier(.52,0,.61,.99);
+
+}
+.listdiv ul{
+    width: 400px;
+    text-align: center;
+    color:grey;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-bottom: 15px;
+    padding-left: 0%;
+    
+    
+}
+.icondiv{
+    display: flex;
+    justify-content: center;
+    padding-left: 44%;
+    padding-top: 2%;
+   
+}.firsticon{
+    height: 25px;
+    margin-left: 20px;
+
+}
+.secondicon{
+    height: 25px;
+    margin-left: 20px;
+}
+.imagediv{
+    padding-top: 25px;
+    
+}
+.listdiv
+{
+    display: flex;
+    align-items: center;
+    
+
+}
+.listdiv li{
+    margin-left: 10%; 
+   
+    
+}
+.image {
+    height: 362.29px;
+    width:362.29px ;
+    display: flex;
+    
+    
+}
+.listdiv li:hover{
+    
+    cursor: pointer;
+    text-decoration: underline;
+    color: white;
+}
+.firstrow li{
+    list-style: none;
+    /* padding-left: 7%;
+    padding-top: 1%; */
+    
+    
+
+}
+.firstrow{
+    display: flex;
+    
+}
+.thirdcontainer{
+    padding: 30px 120px;
+}
+.second,.third{
+    margin-left: 60px;
+}
+.secondrow{
+    display: flex;
+    padding-top: 20px;
+}
+.secondrow li{
+    list-style: none;
+
+}
+.thirdrow{
+    display: flex;
+    padding-top: 20px;
+}
+.thirdrow li{
+    list-style: none;
+}
+.down{
+    height: -1vw;
+    width: 20px;
+}
+.lastpic{
+    height: 527.11%;
+    width:393.69px;
+    padding-left: 100px;
+    padding-top: 4%;
+
+}
+.fourthcontainer{
+    height:90px;
+    width: 100%;
+    display: flex;
+
+}
+.firstsentence{
+    padding-left: 40%;
+    font-family:apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 24px;
+    margin-bottom: 15px;
+    font-weight: 45px;
+}
+.secondsentence{
+    padding-left: 40%;
+    font-family:apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+.buttonbox{
+background-color: black;
+height: 30px;
+width: 120px;
+padding: 6px 20px;
+justify-content: center;
+font-size: 24px;
+display: flex;
+margin-left: 40%;
+margin-top: 70px;
+}
+.aboutbutton{
+    padding-left: 5%;
+    color: aliceblue;
+}
+.downtwo{
+height: 25vw;
+width: 10px;
+}
+.fifthcontainer{
+    
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    height: 350px;
+    
+    
+}
+
+.fifthcontainer li{
+    list-style: none;
+    color: rgb(176, 176, 176);
+    margin-top: 25px;
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+}
+
+#colorchange{
+    color: white;
+}
+.lastcontainer{
+    display: flex;
+    height: 100px;
+    background-color: black;
+    padding-top: 20px;
+  
+}
+.lastcontainer ul{
+    color: rgb(185, 182, 182);
+    display: flex;
+    justify-content: center;
+    margin-left: 80px;
+    margin-top: 40px;
+    letter-spacing: 0.66px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 13px;
+    text-emphasis: start;
+
+}
+.lastcontainer li:hover{
+    cursor: pointer;
+    text-decoration: underline;
+
+}
+.same{
+  padding-left: 20px;
+  
+  
+
+ }
+ .lastcontainer li{
+    text-decoration: none;
+    list-style-type: none ;
+ }
+ .same:hover{
+    cursor: pointer;
+    color: white;
+    text-decoration: underline     ;
+
+ }
+ .icondiv :hover{
+    cursor: pointer;
+ }
+ .instaicon{
+   align-items: center;
+   display: flex;
+   justify-content: center;
+ 
+   padding-top: 30px;
+   
+   /* padding-left: 300px;
+    margin-top: 200px; */
+    
+ }
+ .fifthcontainer ul{
+    padding-top: 2%;
+ }
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+    
+
+
